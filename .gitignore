@@ -1,1 +1,19 @@
-*
+# ผลลัพธ์ที่สคริปต์สร้างเอง — ไม่ต้องเก็บเข้า git
+สรุปยอด_PO_*.xlsx
+สรุปยอด_PO_*.log
+ผลลัพธ์*.xlsx
+*.log
+
+# ไฟล์ชั่วคราวของ Excel ตอนเปิดไฟล์ค้างไว้
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
+.DS_Store
