@@ -1,0 +1,3 @@
+# สรุปยอด PO — งานรั้ว พระราม 5
+# ติดตั้งด้วย: pip install -r requirements.txt
+openpyxl>=3.1
